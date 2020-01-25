@@ -14,5 +14,5 @@ app.use(express.static("./public"));
 app.use('/', web);
 
 app.listen(1337, () => {
-	console.log('rhhhh port 1337');
+	console.log('A T M port 1337');
 });
